@@ -63,7 +63,7 @@ header {
 
     width: 625px;
     height: 375px;
-    background-image: url("/assets/img/bg-header.jpg");
+    background-image: url("assets/img/bg-header.jpg");
     background-size: cover;
 
 }
